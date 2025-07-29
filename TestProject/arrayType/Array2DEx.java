@@ -17,7 +17,7 @@ public class Array2DEx {
 				System.out.println("틀렸습니다. 정답은 "+word[i][1]+"입니다.");
 			}
 		}
-				
+		sc.close();
 
 	}
 
